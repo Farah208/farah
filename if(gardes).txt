@@ -1,0 +1,16 @@
+void main() {
+  
+ var score = 100;
+        var grade;
+
+        if (score >=90) {
+       print(" grade= 'A'");
+        } else if (score >= 80) {
+         print("  grade ='B'");
+        } else if (score >= 70) {
+           print(" grade =' C'");
+        } else if (score >= 60) {
+           print(" grade = 'D'");
+        } else {
+           print(" grade = 'F'");
+        }

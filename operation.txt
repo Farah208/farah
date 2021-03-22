@@ -1,0 +1,16 @@
+void main() {
+  var num1 =50;
+  var num2=2;
+  var result=0;
+  result=num1+num2;
+  print("add: ${result}");
+  //add operation
+  result=num1-num2;
+  print("sub: ${result}");
+  // sub operation
+  result=num1*num2;
+  print("mul: ${result}");
+  // multiplication operation
+  
+  
+}
